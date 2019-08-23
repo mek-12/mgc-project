@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLayaredCookieAuthentication.DAL", "TestLayaredCookieAuthentication.DAL\TestLayaredCookieAuthentication.DAL.csproj", "{D0EC6BA7-FE2B-42E4-B552-8B242AF3D61B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLayaredCookieAuthentication.ENTITIES", "TestLayaredCookieAuthentication.ENTITIES\TestLayaredCookieAuthentication.ENTITIES.csproj", "{C78615CC-2111-4BAC-B31C-96AB6111241D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLayaredCookieAuthentication.BLL", "TestLayaredCookieAuthentication.BLL\TestLayaredCookieAuthentication.BLL.csproj", "{6C2D842D-1DAE-4204-AD29-7AE16C78348B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLayaredCookieAuthentication.WEBAPI", "TestLayaredCookieAuthentication.WEBAPI\TestLayaredCookieAuthentication.WEBAPI.csproj", "{DDC71293-7509-470C-9322-87A0C233E154}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLayaredCookieAuthentication.CrossCuttingConcerns", "TestLayaredCookieAuthentication.CrossCuttingConcerns\TestLayaredCookieAuthentication.CrossCuttingConcerns.csproj", "{64460BF7-7581-45DC-8813-32C836330A1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLayaredCookieAuthentication.WEBMVC", "TestLayaredCookieAuthentication.WEBMVC\TestLayaredCookieAuthentication.WEBMVC.csproj", "{B20F08B1-6C7D-4EE2-8068-925D3FF2ED19}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{543C03EE-8A90-410A-914E-409E6C099718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0EC6BA7-FE2B-42E4-B552-8B242AF3D61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EC6BA7-FE2B-42E4-B552-8B242AF3D61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EC6BA7-FE2B-42E4-B552-8B242AF3D61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EC6BA7-FE2B-42E4-B552-8B242AF3D61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78615CC-2111-4BAC-B31C-96AB6111241D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78615CC-2111-4BAC-B31C-96AB6111241D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78615CC-2111-4BAC-B31C-96AB6111241D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78615CC-2111-4BAC-B31C-96AB6111241D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2D842D-1DAE-4204-AD29-7AE16C78348B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2D842D-1DAE-4204-AD29-7AE16C78348B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2D842D-1DAE-4204-AD29-7AE16C78348B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2D842D-1DAE-4204-AD29-7AE16C78348B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC71293-7509-470C-9322-87A0C233E154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC71293-7509-470C-9322-87A0C233E154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC71293-7509-470C-9322-87A0C233E154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC71293-7509-470C-9322-87A0C233E154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64460BF7-7581-45DC-8813-32C836330A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64460BF7-7581-45DC-8813-32C836330A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64460BF7-7581-45DC-8813-32C836330A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64460BF7-7581-45DC-8813-32C836330A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20F08B1-6C7D-4EE2-8068-925D3FF2ED19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20F08B1-6C7D-4EE2-8068-925D3FF2ED19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20F08B1-6C7D-4EE2-8068-925D3FF2ED19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20F08B1-6C7D-4EE2-8068-925D3FF2ED19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543C03EE-8A90-410A-914E-409E6C099718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543C03EE-8A90-410A-914E-409E6C099718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543C03EE-8A90-410A-914E-409E6C099718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543C03EE-8A90-410A-914E-409E6C099718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7212724C-7D97-457A-98AF-95BDFC430841}
+	EndGlobalSection
+EndGlobal

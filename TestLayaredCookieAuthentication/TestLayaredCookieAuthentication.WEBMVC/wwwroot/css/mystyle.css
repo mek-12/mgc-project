@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,300,500,700");
+
+h1,h2,h3,h4,h5{
+    color:white;
+}
+.right-login-box{
+    margin: 0 0 auto auto;
+    z-index: 100;
+    width: 900px;
+    background-color: rgba(230,130,0,0.4);
+    height: 100%;
+}
+
+.out-login-box{
+    max-width: 500px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
