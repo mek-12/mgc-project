@@ -1,0 +1,15 @@
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\bin\Debug\netcoreapp3.0\MGC.BLL.deps.json
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\bin\Debug\netcoreapp3.0\MGC.BLL.dll
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\bin\Debug\netcoreapp3.0\MGC.BLL.pdb
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\bin\Debug\netcoreapp3.0\MGC.CCC.dll
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\bin\Debug\netcoreapp3.0\MGC.DAL.dll
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\bin\Debug\netcoreapp3.0\MGC.ENTITY.dll
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\bin\Debug\netcoreapp3.0\MGC.DAL.pdb
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\bin\Debug\netcoreapp3.0\MGC.CCC.pdb
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\bin\Debug\netcoreapp3.0\MGC.ENTITY.pdb
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\obj\Debug\netcoreapp3.0\MGC.BLL.csprojAssemblyReference.cache
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\obj\Debug\netcoreapp3.0\MGC.BLL.AssemblyInfoInputs.cache
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\obj\Debug\netcoreapp3.0\MGC.BLL.AssemblyInfo.cs
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\obj\Debug\netcoreapp3.0\MGC.BLL.csproj.CopyComplete
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\obj\Debug\netcoreapp3.0\MGC.BLL.dll
+D:\Projects\Web\mgc-project\MGC\MGC.BLL\obj\Debug\netcoreapp3.0\MGC.BLL.pdb

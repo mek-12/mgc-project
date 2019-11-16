@@ -1,0 +1,8 @@
+D:\Projects\Web\mgc-project\MGC\MGC.ENTITY\bin\Debug\netcoreapp3.0\MGC.ENTITY.deps.json
+D:\Projects\Web\mgc-project\MGC\MGC.ENTITY\bin\Debug\netcoreapp3.0\MGC.ENTITY.dll
+D:\Projects\Web\mgc-project\MGC\MGC.ENTITY\bin\Debug\netcoreapp3.0\MGC.ENTITY.pdb
+D:\Projects\Web\mgc-project\MGC\MGC.ENTITY\obj\Debug\netcoreapp3.0\MGC.ENTITY.csprojAssemblyReference.cache
+D:\Projects\Web\mgc-project\MGC\MGC.ENTITY\obj\Debug\netcoreapp3.0\MGC.ENTITY.AssemblyInfoInputs.cache
+D:\Projects\Web\mgc-project\MGC\MGC.ENTITY\obj\Debug\netcoreapp3.0\MGC.ENTITY.AssemblyInfo.cs
+D:\Projects\Web\mgc-project\MGC\MGC.ENTITY\obj\Debug\netcoreapp3.0\MGC.ENTITY.dll
+D:\Projects\Web\mgc-project\MGC\MGC.ENTITY\obj\Debug\netcoreapp3.0\MGC.ENTITY.pdb

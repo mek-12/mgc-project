@@ -1,0 +1,8 @@
+D:\Projects\Web\mgc-project\MGC\MGC.CCC\bin\Debug\netcoreapp3.0\MGC.CCC.deps.json
+D:\Projects\Web\mgc-project\MGC\MGC.CCC\bin\Debug\netcoreapp3.0\MGC.CCC.dll
+D:\Projects\Web\mgc-project\MGC\MGC.CCC\bin\Debug\netcoreapp3.0\MGC.CCC.pdb
+D:\Projects\Web\mgc-project\MGC\MGC.CCC\obj\Debug\netcoreapp3.0\MGC.CCC.csprojAssemblyReference.cache
+D:\Projects\Web\mgc-project\MGC\MGC.CCC\obj\Debug\netcoreapp3.0\MGC.CCC.AssemblyInfoInputs.cache
+D:\Projects\Web\mgc-project\MGC\MGC.CCC\obj\Debug\netcoreapp3.0\MGC.CCC.AssemblyInfo.cs
+D:\Projects\Web\mgc-project\MGC\MGC.CCC\obj\Debug\netcoreapp3.0\MGC.CCC.dll
+D:\Projects\Web\mgc-project\MGC\MGC.CCC\obj\Debug\netcoreapp3.0\MGC.CCC.pdb

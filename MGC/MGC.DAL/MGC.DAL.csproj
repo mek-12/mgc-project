@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20191018200916_Created-MGCDB.cs" />
+    <Compile Remove="Migrations\20191018200916_Created-MGCDB.Designer.cs" />
+    <Compile Remove="Migrations\20191018201253_Created-MGCDB.cs" />
+    <Compile Remove="Migrations\20191018201253_Created-MGCDB.Designer.cs" />
+    <Compile Remove="Migrations\20191018201558_Created-MGCDB.cs" />
+    <Compile Remove="Migrations\20191018201558_Created-MGCDB.Designer.cs" />
+    <Compile Remove="Migrations\20191019174600_Add_Identity_Defination.cs" />
+    <Compile Remove="Migrations\20191019174600_Add_Identity_Defination.Designer.cs" />
+    <Compile Remove="Migrations\20191020155458_Add_ComputerFilter_Table.cs" />
+    <Compile Remove="Migrations\20191020155458_Add_ComputerFilter_Table.Designer.cs" />
+    <Compile Remove="Migrations\20191020155614_Add_ComputerFilter_Table.cs" />
+    <Compile Remove="Migrations\20191020155614_Add_ComputerFilter_Table.Designer.cs" />
+    <Compile Remove="Migrations\20191024180726_Add_Product_Inheritance.cs" />
+    <Compile Remove="Migrations\20191024180726_Add_Product_Inheritance.Designer.cs" />
+    <Compile Remove="Migrations\20191105081432_spGetMainCategory.cs" />
+    <Compile Remove="Migrations\20191105081432_spGetMainCategory.Designer.cs" />
+    <Compile Remove="Migrations\20191105093424_test.cs" />
+    <Compile Remove="Migrations\20191105093424_test.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MGC.CCC\MGC.CCC.csproj" />
+    <ProjectReference Include="..\MGC.ENTITY\MGC.ENTITY.csproj" />
+  </ItemGroup>
+
+</Project>
